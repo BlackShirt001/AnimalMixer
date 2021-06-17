@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AnimalMixer/static/css/main.2146048b.chunk.css",
+    "main.js": "/AnimalMixer/static/js/main.bf3b09b1.chunk.js",
+    "main.js.map": "/AnimalMixer/static/js/main.bf3b09b1.chunk.js.map",
+    "runtime-main.js": "/AnimalMixer/static/js/runtime-main.9a8b47ef.js",
+    "runtime-main.js.map": "/AnimalMixer/static/js/runtime-main.9a8b47ef.js.map",
+    "static/js/2.4b2f86c8.chunk.js": "/AnimalMixer/static/js/2.4b2f86c8.chunk.js",
+    "static/js/2.4b2f86c8.chunk.js.map": "/AnimalMixer/static/js/2.4b2f86c8.chunk.js.map",
+    "index.html": "/AnimalMixer/index.html",
+    "static/css/main.2146048b.chunk.css.map": "/AnimalMixer/static/css/main.2146048b.chunk.css.map",
+    "static/js/2.4b2f86c8.chunk.js.LICENSE.txt": "/AnimalMixer/static/js/2.4b2f86c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a8b47ef.js",
+    "static/js/2.4b2f86c8.chunk.js",
+    "static/css/main.2146048b.chunk.css",
+    "static/js/main.bf3b09b1.chunk.js"
+  ]
+}
